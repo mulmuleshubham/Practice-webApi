@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibalaryAPIs", "LibalaryAPIs\LibalaryAPIs.csproj", "{EF8DF9C1-1356-4ABD-A0F1-54CB92863950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8DF9C1-1356-4ABD-A0F1-54CB92863950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8DF9C1-1356-4ABD-A0F1-54CB92863950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8DF9C1-1356-4ABD-A0F1-54CB92863950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8DF9C1-1356-4ABD-A0F1-54CB92863950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6DB44D-4400-49E2-AAE1-3E225B8D021D}
+	EndGlobalSection
+EndGlobal
